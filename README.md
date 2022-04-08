@@ -4,8 +4,7 @@
 
 ##### I am currently studying at Istanbul Technical University - Electrical Engineering
 
-- 🔭 I’m currently working on **Backend development with .Net 5**
-- 🌱 I’m currently improving myself to be a better backend developer by *developing more projects*.
+- 🔭 I’m currently working at Startup Centrum as a .Net Developer.
 - 📫 How to reach me:
     * **Linkedin:** https://www.linkedin.com/in/meric-ozkayagan-482508197/
     * **My Email Adress:** mericozkayagan@gmail.com
