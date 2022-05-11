@@ -2,7 +2,7 @@
 
 #### I am Meriç Özkayagan
 
-##### I’m currently working at Startup Centrum as a .Net Developer.
+#### I’m currently working at Startup Centrum as a .Net Developer.
 
 - 🔭 I am currently studying at Istanbul Technical University - Electrical Engineering
 - 📫 How to reach me:
