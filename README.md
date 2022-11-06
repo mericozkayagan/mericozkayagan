@@ -8,4 +8,5 @@
 - 📫 How to reach me:
     * **Linkedin:** https://www.linkedin.com/in/meric-ozkayagan-482508197/
     * **My Email Adress:** mericozkayagan@gmail.com
+    *  **My Medium Blog** https://mericozkayagan.medium.com/
 
