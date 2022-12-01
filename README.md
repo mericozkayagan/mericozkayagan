@@ -2,7 +2,7 @@
 
 #### I am Meriç Özkayagan
 
-#### I’m currently working at Startup Centrum as a Software Developer.
+#### I’m currently working at Navlungo as a Devops Engineer.
 
 - 🔭 I am currently studying at Istanbul Technical University - Electrical Engineering
 - 📫 How to reach me:
