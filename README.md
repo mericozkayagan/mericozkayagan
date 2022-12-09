@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meriç Özkayagan</h1>
-<h3 align="center">Devops Engineer at Navlungo</h3>
+<h3 align="center">Devops Engineer</h3>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-- 🔭 I’m currently working on **Navlungo**
 
 - 📝 I regularly write articles on Terraform, AWS.
 
