@@ -25,5 +25,5 @@
 <a href="https://medium.com/@mericozkayagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mericozkayagan" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mericozkayagan&show_icons=true&locale=en&layout=compact" alt="mericozkayagan" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mericozkayagan&show_icons=true&locale=en" alt="mericozkayagan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mericozkayagan&show_icons=true&locale=en&layout=compact" alt="mericozkayagan" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mericozkayagan&show_icons=true&locale=en" alt="mericozkayagan" /></p>
