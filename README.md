@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Navlungo**
 
-- 📝 I regularly write articles on [Terraform, AWS](Terraform, AWS)
+- 📝 I regularly write articles on Terraform, AWS.
 
 - 📫 How to reach me **mericozkayagan@gmail.com**
 
