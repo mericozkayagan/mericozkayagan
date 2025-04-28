@@ -1,33 +1,38 @@
-<h1 align="center">Hi 👋, I'm Meriç Özkayagan</h1>
-<h3 align="center">Devops Engineer</h3>
+<div align="center">
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+# Meriç Özkayagan
+
+## Devops Engineer
+
+</div>
+
+<div align="center">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+</div>
 <br/>
 
-- 📝 I regularly write articles on Terraform, AWS.
-
-- 📫 How to reach me **mericozkayagan@gmail.com**
+> 📫 How to reach me **mericozkayagan@gmail.com**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Caching from Base Branch in GitHub Actions for Yarn](https://mericozkayagan.medium.com/caching-from-base-branch-in-github-actions-for-yarn-e22d07c34442?source=rss-48eca806ec4e------2)
 - [How to set up a NAT Gateway in AWS with Terraform](https://mericozkayagan.medium.com/how-to-set-up-a-nat-gateway-in-aws-with-terraform-2ee4c75dd756?source=rss-48eca806ec4e------2)
 - [How to setup Github Actions for AWS ECS](https://mericozkayagan.medium.com/how-to-setup-github-actions-for-aws-ecs-414a027d5136?source=rss-48eca806ec4e------2)
 - [How to setup AWS ECS Fargate Service with Terraform](https://mericozkayagan.medium.com/how-to-setup-aws-ecs-fargate-service-with-terraform-cbf1368680ed?source=rss-48eca806ec4e------2)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mericozkayagan" alt="mericozkayagan" /></a> </p>
+## 📈 GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mericozkayagan&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mericozkayagan&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mericozkayagan&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mericozkayagan&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mericozkayagan&theme=nord_dark&utcOffset=8)
 
 
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mericozkayagan)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mericozkayagan)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mericozkayagan&show_icons=true&locale=en&layout=compact" alt="mericozkayagan" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mericozkayagan&show_icons=true&locale=en" alt="mericozkayagan" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mericozkayagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mericozkayagan" height="30" width="40" /></a>
-<a href="https://medium.com/@mericozkayagan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mericozkayagan" height="30" width="40" /></a>
-</p>
